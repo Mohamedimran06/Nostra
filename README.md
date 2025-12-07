@@ -48,7 +48,7 @@ Nostra-Clothing/
 ## 📖 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mohameddimran06/Nostra/.git
+   git clone https://mohamedimran06.github.io/Nostra/
    ```
 2. Open `index.html` in your browser to view the site.
 
